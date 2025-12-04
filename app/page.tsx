@@ -13,7 +13,7 @@ export default function Home() {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
-        background: "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
+        background: "#161618ff",
         color: "#fff",
         textAlign: "center",
         padding: "1rem",
